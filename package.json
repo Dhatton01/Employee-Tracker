@@ -1,0 +1,11 @@
+{
+  "name": "employee-tracker",
+  "version": "1.0.0",
+  "description": "1. [Description](#description)\r 1. [Usage](#usage)\r 1. [User Story](#user-story)\r 1. [Acceptance Criteria](#acceptance-criteria)\r 1. [Licenses](#licenses)\r 1. [Technology](#technology)\r 1. [Mock-up](#mock-up)\r 1. [Support](#support)\r    - [Installation](#installation)\r    - [Questions](#questions)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
