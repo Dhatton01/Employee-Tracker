@@ -3,15 +3,9 @@
 ## Table of Contents
 
 1. [Description](#description)
-1. [Usage](#usage)
 1. [User Story](#user-story)
 1. [Acceptance Criteria](#acceptance-criteria)
-1. [Licenses](#licenses)
-1. [Technology](#technology)
-1. [Mock-up](#mock-up)
-1. [Support](#support)
-   - [Installation](#installation)
-   - [Questions](#questions)
+1. [Installation](#installation)
 
 ## Description
 A command-line application to manage a company's employee database.
@@ -51,16 +45,6 @@ I **WANT** to be able to view and manage the departments, roles, and employees i
 **THEN** I am prompted to select an employee to update and their new role and this information is updated in the database 
 
 
-
-## Mock-up
-The following picture shows the website appearance and capabilities:
-
-<img src="./assets/images/screenshots/mockup.gif" width="600"><br>
-<img src="./assets/images/screenshots/screenshot01.png" width="300">
-
-We also have a video that walks you through the entire application:
-
-## Support
 ### Installation
 To fork this code to further improve the website, please follow these directions:
 
